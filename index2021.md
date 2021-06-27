@@ -14,21 +14,21 @@
 
 - #### Monday
 	- Morning (10:30 - 12:30):  
-		&emsp;**[General Introduction, Setup & Computing 101]()**  
+		&emsp;**[General Introduction, Setup & Computing 101](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/a54cfcd4eafeafd1ce70acf45828a6f9771905d9/notebooks2021/01_Week1_Monday_General_Introduction.ipynb)**  
 		&emsp;Tutor:
 	- Afternoon (13:30 - 15:30):  
-		&emsp;**[Introduction to Python, Variables, Primitive Data Types: Integer, Float, String, Boolean]()**  
+		&emsp;**[Introduction to Python, Variables, Primitive Data Types: Integer, Float, String, Boolean](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/a54cfcd4eafeafd1ce70acf45828a6f9771905d9/notebooks2021/02_Week1_Monday_Introduction_To_Python.ipynb)**  
 		&emsp;Tutor:
 - #### Tuesday
 	- Afternoon (13:30 - 15:30):  
-		&emsp;**[Practice Session 1]()**  
+		&emsp;**[Practice Session 1](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/a54cfcd4eafeafd1ce70acf45828a6f9771905d9/notebooks2021/03_Week1_Tuesday_Practice_Session_1.ipynb)**  
 		&emsp;Tutor:
 - #### Wednesday
 	- Morning (10:30 - 12:30):  
-		&emsp;**[Sequential Datatypes: Lists and Dictionaries]()**  
+		&emsp;**[Sequential Datatypes: Lists and Dictionaries](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/a54cfcd4eafeafd1ce70acf45828a6f9771905d9/notebooks2021/04_Week1_Wednesday_Sequential%20Datatypes_Lists_Dictionaries.ipynb)**  
 		&emsp;Tutor:
 	- Afternoon (13:30 - 15:30):  
-		&emsp;**[Control Structures I: If-Else Conditions]()**  
+		&emsp;**[Control Structures I: If-Else Conditions](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/a54cfcd4eafeafd1ce70acf45828a6f9771905d9/notebooks2021/05_Week1_Wednesday_Control_Structures_I_If-Else_Conditions.ipynb)**  
 		&emsp;Tutor:
 - #### Thursday
 	- Afternoon (13:30 - 15:30):  
