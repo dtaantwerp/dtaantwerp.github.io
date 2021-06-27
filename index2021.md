@@ -8,7 +8,7 @@
 - Focus Sessions:  [Timetable]()
 - Textbook: Hammond, M. (2020). *Python for Linguists*. Cambridge: Cambridge University Press. doi:10.1017/9781108642408
 
-
+**************************************************************************
 ## Schedule
 ###  Week 1
 
@@ -17,9 +17,7 @@
 		&emsp;**[General Introduction, Setup & Computing 101]()**  
 		&emsp;Tutor:
 	- Afternoon (13:30 - 15:30):  
-		&emsp;**[Introduction to Python,  
-		&emsp;Variables,  
-		&emsp;Primitive Data Types: Integer, Float, String, Boolean]()**  
+		&emsp;**[Introduction to Python, Variables, Primitive Data Types: Integer, Float, String, Boolean]()**  
 		&emsp;Tutor:
 - #### Tuesday
 	- Afternoon (13:30 - 15:30):  
@@ -43,20 +41,18 @@
 	- Afternoon (13:30 - 15:30):  
 		&emsp;**[Practical Use: Frequency Distributions in Python]()**  
 		&emsp;Tutor:  
-*******************************************
 ###  Week 2
 
-*******************************************
 ###  Week 3
 
-
-## Staff:
-	- Coordinators
-		- [Coordinator 1](mailto)
-		- [Coordinator 2](mailto)
-		- [Coordinator 3](mailto)
-	- Tutors
-		- [Tutor 1](mailto)
-		- [Tutor 2](mailto)
-		- [Tutor 3](mailto)
+**************************************************************************
+## Staff
+- Coordinators
+	- [Coordinator 1](mailto)
+	- [Coordinator 2](mailto)
+	- [Coordinator 3](mailto)
+- Tutors
+	- [Tutor 1](mailto)
+	- [Tutor 2](mailto)
+	- [Tutor 3](mailto)
 
