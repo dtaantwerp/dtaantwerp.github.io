@@ -1,28 +1,28 @@
-Date,Day,Time,Title,New,Old
-,Monday,10:00 AM,Ma DTA Course Overview,,01_ben_introduction.ipynb
-,Monday,2:00 PM,Python and Variables,,"02_walter_week1_tuesday.ipynb, 03_walter_week1_tuesday_leftover.ipynb"
-,Tuesday,10:00 AM,Practical Workshop,,
-,Wednesday,10:00 AM,"Data Types, Lists, Dictionaries",,05_walter_week1_wednesday.ipynb
-,Wednesday,2:00 PM,Control structures: if-else,,"
+,Date,Day,Time,Title,New,Old
+0,Week1,Monday,10:00 AM,Ma DTA Course Overview,0_Week1_Monday_Ma_DTA_Course_Overview.ipynb,01_ben_introduction.ipynb
+1,Week1,Monday,2:00 PM,Python and Variables,1_Week1_Monday_Python_and_Variables.ipynb,"02_walter_week1_tuesday.ipynb, 03_walter_week1_tuesday_leftover.ipynb"
+2,Week1,Tuesday,10:00 AM,Practical Workshop,2_Week1_Tuesday_Practical_Workshop.ipynb,
+3,Week1,Wednesday,10:00 AM,"Data Types, Lists, Dictionaries",3_Week1_Wednesday_Data_Types__Lists__Dictionaries.ipynb,05_walter_week1_wednesday.ipynb
+4,Week1,Wednesday,2:00 PM,Control structures: if-else,4_Week1_Wednesday_Control_structures__if_else.ipynb,"
 07_ben_control_structures_2.ipynb "
-,Thursday,10:00 AM,Practical Workshop,,06_ben_recap.ipynb
-,Friday,10:00 AM,"Control structures: Loops: for, while (?)",,"05_walter_week1_wednesday.ipynb, 07_ben_control_structures_2.ipynb "
-,Friday,2:00 PM,"Frequency distribution in python; counting, text",,
-,Monday,10:00 AM,Practice Sessions,,
-,Monday,2:00 PM,input/output / files,,08_mike_Chapter 4 - Input-Output.ipynb
-,Tuesday,10:00 AM,Practical Workshop,,
-,Wednesday,10:00 AM,Functions,,09_walter_week_2_functions.ipynb
-,Wednesday,2:00 PM,string/text manipulation,,10_walter_week_2_regex.ipynb
-,Thursday,10:00 AM,Practical Workshop,,
-,Friday,10:00 AM,regular expressions,,10_walter_week_2_regex.ipynb
-,Friday,2:00 PM,Larger project,,
-,Monday,10:00 AM,functional programming / list comprehensions,,"09_walter_week_2_functions.ipynb,  19_mike_Advanced looping.ipynb          "
-,Monday,2:00 PM,numpy,,"20_sara_LinearAlgebra.ipynb, 21_nikolay_numpy_for_linear_algebra.ipynb
+5,Week1,Thursday,10:00 AM,Practical Workshop,5_Week1_Thursday_Practical_Workshop.ipynb,06_ben_recap.ipynb
+6,Week1,Friday,10:00 AM,"Control structures: Loops: for, while (?)",6_Week1_Friday_Control_structures__Loops__for__while____.ipynb,"05_walter_week1_wednesday.ipynb, 07_ben_control_structures_2.ipynb "
+7,Week1,Friday,2:00 PM,"Frequency distribution in python; counting, text",7_Week1_Friday_Frequency_distribution_in_python__counting__text.ipynb,
+8,Week2,Monday,10:00 AM,Practice Sessions,8_Week2_Monday_Practice_Sessions.ipynb,
+9,Week2,Monday,2:00 PM,input/output / files,9_Week2_Monday_input_output___files.ipynb,08_mike_Chapter 4 - Input-Output.ipynb
+10,Week2,Tuesday,10:00 AM,Practical Workshop,10_Week2_Tuesday_Practical_Workshop.ipynb,
+11,Week2,Wednesday,10:00 AM,Functions,11_Week2_Wednesday_Functions.ipynb,09_walter_week_2_functions.ipynb
+12,Week2,Wednesday,2:00 PM,string/text manipulation,12_Week2_Wednesday_string_text_manipulation.ipynb,10_walter_week_2_regex.ipynb
+13,Week2,Thursday,10:00 AM,Practical Workshop,13_Week2_Thursday_Practical_Workshop.ipynb,
+14,Week2,Friday,10:00 AM,regular expressions,14_Week2_Friday_regular_expressions.ipynb,10_walter_week_2_regex.ipynb
+15,Week2,Friday,2:00 PM,Larger project,15_Week2_Friday_Larger_project.ipynb,
+16,Week3,Monday,10:00 AM,functional programming / list comprehensions,16_Week3_Monday_functional_programming___list_comprehensions.ipynb,"09_walter_week_2_functions.ipynb,  19_mike_Advanced looping.ipynb          "
+17,Week3,Monday,2:00 PM,numpy,17_Week3_Monday_numpy.ipynb,"20_sara_LinearAlgebra.ipynb, 21_nikolay_numpy_for_linear_algebra.ipynb
           "
-,Tuesday,10:00 AM,Practical Workshop,,
-,Wednesday,10:00 AM,"object orientation I & basic pandas (classes, methods)",,"18_mike_objects.ipynb, 12_ben_pandas_1_Introduction.ipynb "
-,Wednesday,2:00 PM,object orientation II (case study),,
-,Thursday,10:00 AM,Practical Workshop,,
-,Friday,10:00 AM,Command line,,"slides/command_line.pdf, slides/server_communication.pdf
+18,Week3,Tuesday,10:00 AM,Practical Workshop,18_Week3_Tuesday_Practical_Workshop.ipynb,
+19,Week3,Wednesday,10:00 AM,"object orientation I & basic pandas (classes, methods)",19_Week3_Wednesday_object_orientation_I___basic_pandas__classes__methods_.ipynb,"18_mike_objects.ipynb, 12_ben_pandas_1_Introduction.ipynb "
+20,Week3,Wednesday,2:00 PM,object orientation II (case study),20_Week3_Wednesday_object_orientation_II__case_study_.ipynb,
+21,Week3,Thursday,10:00 AM,Practical Workshop,21_Week3_Thursday_Practical_Workshop.ipynb,
+22,Week3,Friday,10:00 AM,Command line,22_Week3_Friday_Command_line.ipynb,"slides/command_line.pdf, slides/server_communication.pdf
           "
-,Friday,2:00 PM,Command line,,
+23,Week3,Friday,2:00 PM,Command line,23_Week3_Friday_Command_line.ipynb,
