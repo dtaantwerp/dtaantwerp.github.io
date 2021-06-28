@@ -1,0 +1,28 @@
+Date,Day,Time,Title,New,Old
+,Monday,10:00 AM,Ma DTA Course Overview,,01_ben_introduction.ipynb
+,Monday,2:00 PM,Python and Variables,,"02_walter_week1_tuesday.ipynb, 03_walter_week1_tuesday_leftover.ipynb"
+,Tuesday,10:00 AM,Practical Workshop,,
+,Wednesday,10:00 AM,"Data Types, Lists, Dictionaries",,05_walter_week1_wednesday.ipynb
+,Wednesday,2:00 PM,Control structures: if-else,,"
+07_ben_control_structures_2.ipynb "
+,Thursday,10:00 AM,Practical Workshop,,06_ben_recap.ipynb
+,Friday,10:00 AM,"Control structures: Loops: for, while (?)",,"05_walter_week1_wednesday.ipynb, 07_ben_control_structures_2.ipynb "
+,Friday,2:00 PM,"Frequency distribution in python; counting, text",,
+,Monday,10:00 AM,Practice Sessions,,
+,Monday,2:00 PM,input/output / files,,08_mike_Chapter 4 - Input-Output.ipynb
+,Tuesday,10:00 AM,Practical Workshop,,
+,Wednesday,10:00 AM,Functions,,09_walter_week_2_functions.ipynb
+,Wednesday,2:00 PM,string/text manipulation,,10_walter_week_2_regex.ipynb
+,Thursday,10:00 AM,Practical Workshop,,
+,Friday,10:00 AM,regular expressions,,10_walter_week_2_regex.ipynb
+,Friday,2:00 PM,Larger project,,
+,Monday,10:00 AM,functional programming / list comprehensions,,"09_walter_week_2_functions.ipynb,  19_mike_Advanced looping.ipynb          "
+,Monday,2:00 PM,numpy,,"20_sara_LinearAlgebra.ipynb, 21_nikolay_numpy_for_linear_algebra.ipynb
+          "
+,Tuesday,10:00 AM,Practical Workshop,,
+,Wednesday,10:00 AM,"object orientation I & basic pandas (classes, methods)",,"18_mike_objects.ipynb, 12_ben_pandas_1_Introduction.ipynb "
+,Wednesday,2:00 PM,object orientation II (case study),,
+,Thursday,10:00 AM,Practical Workshop,,
+,Friday,10:00 AM,Command line,,"slides/command_line.pdf, slides/server_communication.pdf
+          "
+,Friday,2:00 PM,Command line,,
