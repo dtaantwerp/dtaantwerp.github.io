@@ -14,6 +14,7 @@ New notebook directory
 
 [[data/]{.ul}](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/master/data)
 datasets and figures
+This repository contains the course material and website for the DTA bootcamp. 
 
 Course Material Instructions
 ============================
@@ -54,64 +55,50 @@ follow without verbal support.
 
 ### Class notebook
 
-- Markdown Cells
+-   Markdown Cells
 
-  - Link all staff, datasets, and supporting material in the first
+    -   Link all staff, datasets, and supporting material in the first cell.
 
-    > cell.
+    -   Use prose to guide the student.
 
-  - Use prose to guide the student.
+    -   Use images and diagrams to explain structures where useful.
 
-  - Use images and diagrams to explain structures where useful.
+-   Data & Figures
 
-- Data & Figures
+    -   Use http:// for all images and datasets. This will maintain functionality irrespective of student saving habits.
 
-  - Use http:// for all images and datasets. This will maintain
+    -   For data and images that are **not** online already, push them to the Github
+        [[data/]{.ul}](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/master/data)
+        directory, and use the http:// link within the notebook. i.e.
+        through !wget or a hyperlink in markdown.
 
-    > functionality irrespective of student saving habits.
+-   Code
 
-  - For data and images that are **not** online already, push them
+    -   Use singular examples of each step of a process. The exercise notebook will contain repetitive exercises for the students to
+        practice with.
 
-    > to the Github
-    > [[data/]{.ul}](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/master/data)
-    > directory, and use the http:// link within the notebook. i.e.
-    > through !wget or a hyperlink in markdown.
-
-- Code
-
-  - Use singular examples of each step of a process. The exercise
-
-    > notebook will contain repetitive exercises for the students to
-    > practice with.
-
-  - If you plan to code a cell live, include the complete result
-
-    > within the notebook.
+    -   If you plan to code a cell live, include the complete result within the notebook.
 
 ### Exercise notebook
 
 Each exercise notebook should correspond to a teaching class, and repeat
 examples with minimal description.
 
-- Markdown
+-   Markdown
 
-  - Reference the class notebook and staff in the first cell.
+    -   Reference the class notebook and staff in the first cell.
 
-  - Avoid prose and link to the class notebook instead of explaining
+    -   Avoid prose and link to the class notebook instead of explaining concepts.
 
-    > concepts.
+-   Data
 
-- Data
+    -   Share data via http:///.
 
-  -   Share data via http:///.
+-   Code
 
-- Code
+    -   Give repetitive examples of problems from the class notebook, some easier and some harder.
 
-  - Give repetitive examples of problems from the class notebook,
-
-    > some easier and some harder.
-
-  - Break down examples from the class notebook into sub steps.
+    -   Break down examples from the class notebook into sub steps.
 
 Material from 2020
 ------------------
@@ -141,33 +128,31 @@ Assignments
 
 All assignments are filed as GitHub Issues. Here is an overview:
 
-  Title                                                    Staff
-
--------------------------------------------------------- ----------
-
-  Ma DTA Course Overview                                   everyone
-  Python and Variables                                     Walter
-  Control structures: if-else                              Ben
-  Data Types, Lists, Dictionaries                          Mike
-  Practical Workshop                                       UNK
-  Frequency distribution in python; counting, text         Mike
-  Control structures: Loops: for, while (?)                Walter
-  input/output / files                                     Mike
-  Practice Sessions                                        UNK
-  Practical Workshop                                       Thomas
-  string/text manipulation                                 Josh
-  Functions                                                Walter
-  Practical Workshop                                       Ilia
-  regular expressions                                      Josh
-  Larger project                                           Mike
-  numpy                                                    Nikolay
-  functional programming / list comprehensions             Walter
-  Practical Workshop                                       Josh
-  object orientation I & basic pandas (classes, methods)   Ben
-  object orientation II (case study)                       Mike
-  Practical Workshop                                       Ilia
-  Command line                                             Ben
-  Command line                                             Walter
+| Title                                                  | Staff    |
+| ------------------------------------------------------ | -------- |
+| Ma DTA Course Overview                                 | everyone |
+| Python and Variables                                   | Walter   |
+| Control structures: if-else                            | Ben      |
+| Data Types, Lists, Dictionaries                        | Mike     |
+| Practical Workshop                                     | UNK      |
+| Frequency distribution in python; counting, text       | Mike     |
+| Control structures: Loops: for, while (?)              | Walter   |
+| input/output / files                                   | Mike     |
+| Practice Sessions                                      | UNK      |
+| Practical Workshop                                     | Thomas   |
+| string/text manipulation                               | Josh     |
+| Functions                                              | Walter   |
+| Practical Workshop                                     | Ilia     |
+| regular expressions                                    | Josh     |
+| Larger project                                         | Mike     |
+| numpy                                                  | Nikolay  |
+| functional programming / list comprehensions           | Walter   |
+| Practical Workshop                                     | Josh     |
+| object orientation I & basic pandas (classes, methods) | Ben      |
+| object orientation II (case study)                     | Mike     |
+| Practical Workshop                                     | Ilia     |
+| Command line                                           | Ben      |
+| Command line                                           | Walter   |
 
 Resources
 ---------
