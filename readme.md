@@ -3,16 +3,16 @@ DTA BootCamp Course Material
 This repository contains the course material and website for the DTA bootcamp. 
 
 
-[[notebooks2021/]{.ul}](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/master/notebooks2021)
+[notebooks2021/](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/master/notebooks2021)
 New notebook directory
 
-[[notebooks/]{.ul}](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/master/notebooks)
+[notebooks/](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/master/notebooks)
 2020 notebook directory
 
-[[exercises/]{.ul}](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/master/exercises)
+[exercises/](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/master/exercises)
 2020 exercise notebooks directory
 
-[[data/]{.ul}](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/master/data)
+[data/](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/master/data)
 datasets and figures
 This repository contains the course material and website for the DTA bootcamp. 
 
