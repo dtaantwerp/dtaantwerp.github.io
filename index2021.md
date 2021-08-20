@@ -1,7 +1,7 @@
 # MA Digital Text Analysis: Bootcamp 
 
 ## Administrative Information
-- Dates: 13 September 2021 - 30 September 2021
+- Dates: 28 September 2021 - 16 October 2021
 - Point of contact: [someone@uantwerpen.be](mailto:someone@uantwerpen.be)
 - Course Material:  All course material can be found [here]()
 - Live Stream: [Link]()
@@ -12,38 +12,95 @@
 ## Schedule
 ###  Week 1
 
-- #### Monday
-	- Morning (10:30 - 12:30):  
-		&emsp;**[General Introduction, Setup & Computing 101](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/a54cfcd4eafeafd1ce70acf45828a6f9771905d9/notebooks2021/01_Week1_Monday_General_Introduction.ipynb)**  
-		&emsp;Tutor:
-	- Afternoon (13:30 - 15:30):  
-		&emsp;**[Introduction to Python, Variables, Primitive Data Types: Integer, Float, String, Boolean](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/a54cfcd4eafeafd1ce70acf45828a6f9771905d9/notebooks2021/02_Week1_Monday_Introduction_To_Python.ipynb)**  
-		&emsp;Tutor:
-- #### Tuesday
-	- Afternoon (13:30 - 15:30):  
-		&emsp;**[Practice Session 1](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/a54cfcd4eafeafd1ce70acf45828a6f9771905d9/notebooks2021/03_Week1_Tuesday_Practice_Session_1.ipynb)**  
-		&emsp;Tutor:
-- #### Wednesday
-	- Morning (10:30 - 12:30):  
-		&emsp;**[Sequential Datatypes: Lists and Dictionaries](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/a54cfcd4eafeafd1ce70acf45828a6f9771905d9/notebooks2021/04_Week1_Wednesday_Sequential%20Datatypes_Lists_Dictionaries.ipynb)**  
-		&emsp;Tutor:
-	- Afternoon (13:30 - 15:30):  
-		&emsp;**[Control Structures I: If-Else Conditions](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/a54cfcd4eafeafd1ce70acf45828a6f9771905d9/notebooks2021/05_Week1_Wednesday_Control_Structures_I_If-Else_Conditions.ipynb)**  
-		&emsp;Tutor:
-- #### Thursday
-	- Afternoon (13:30 - 15:30):  
-		&emsp;**[Practice Session 2]()**  
-		&emsp;Tutor:
-- #### Friday
-	- Morning (10:30 - 12:30):  
-		&emsp;**[Control Structures II: For-Loops]()**  
-		&emsp;Tutor:
-	- Afternoon (13:30 - 15:30):  
-		&emsp;**[Practical Use: Frequency Distributions in Python]()**  
-		&emsp;Tutor:  
+- #### Tuesday (28/09/2021)
+	- Morning (10:00 - 12:30):  
+		&emsp;**[MA Digital Text Analysis: Course Overview](LINK)**  
+		&emsp;Tutor: All tutors are introduced
+	- Afternoon (14:00 - 16:00):  
+		&emsp;**[Python and Variables](LINK)**  
+		&emsp;Tutor: Walter Daelemans
+- #### Wednesday (29/09/2021)
+	- Morning (10:00 - 12:30):  
+		&emsp;**[Data Types, Lists, Dictionaries](LINK)**  
+		&emsp;Tutor: Mike Kestemont
+	- Afternoon (14:00 - 16:00):  
+		&emsp;**[Control Structures: If-Else](LINK)**  
+		&emsp;Tutor: Ben Burtenshaw
+- #### Thursday (30/09/2021)
+	- NO TEACHING
+- #### Friday (01/10/2021)
+	- Morning (10:00 - 12:30):  
+		&emsp;**[Control Structures: For-Loops (and While-Loops)](LINK)**  
+		&emsp;Tutor: Walter Daelemans
+	- Afternoon (14:00 - 16:00):  
+		&emsp;**[Practice Session: Recap Week 1](LINK)**  
+		&emsp;Tutor: TBA
+		
+		
+
 ###  Week 2
 
+- #### Monday (04/10/2021)
+	- Morning (10:00 - 12:30):  
+		&emsp;**[Input/Output and Files](LINK)**  
+		&emsp;Tutor: Mike Kestemont
+	- Afternoon (14:00 - 16:00):  
+		&emsp;**[Frequency Distribution in Python; Counting, Text](LINK)**  
+		&emsp;Tutor: Mike Kestemont
+- #### Tuesday (05/10/2021)
+	- Morning (10:00 - 12:30):  
+		&emsp;**[Practical Workshop](LINK)**  
+		&emsp;Tutor: Thomas
+- #### Wednesday (06/10/2021)
+	- Morning (10:00 - 12:30):  
+		&emsp;**[Functions](LINK)**  
+		&emsp;Tutor: Walter Daelemans
+	- Afternoon (14:00 - 16:00):  
+		&emsp;**[String Manipulation](LINK)**  
+		&emsp;Tutor: Joshua Schäuble
+- #### Thursday (07/10/2021)
+	- Morning (10:00 - 12:30):  
+		&emsp;**[Practical Workshop](LINK)**  
+		&emsp;Tutor: Ilia Markov
+- #### Friday (08/10/2021)
+	- Morning (10:00 - 12:30):  
+		&emsp;**[Regular Expressions](LINK)**  
+		&emsp;Tutor: Joshua Schäuble
+	- Afternoon (14:00 - 16:00):  
+		&emsp;**[Project Work](LINK)**  
+		&emsp;Tutor: Mike Kestemont
+
+
 ###  Week 3
+- #### Monday (11/10/2021)
+	- Morning (10:00 - 12:30):  
+		&emsp;**[Functional Programming / List Comprehensions](LINK)**  
+		&emsp;Tutor: Walter Daelemans
+	- Afternoon (14:00 - 16:00):  
+		&emsp;**[Numpy](LINK)**  
+		&emsp;Tutor: Nikolay
+- #### Tuesday (12/10/2021)
+	- Morning (10:00 - 12:30):  
+		&emsp;**[Practical Workshop](LINK)**  
+		&emsp;Tutor: Joshua Schäuble
+- #### Wednesday (13/10/2021)
+	- Morning (10:00 - 12:30):  
+		&emsp;**[Object Orientation I & Basic Pandas (Classes, Methods)](LINK)**  
+		&emsp;Tutor: Ben Burtenshaw
+	- Afternoon (14:00 - 16:00):  
+		&emsp;**[Object Orientation II (Case Study)](LINK)**  
+		&emsp;Tutor: Mike Kestemont
+- #### Thursday (14/10/2021)
+	- Morning (10:00 - 12:30):  
+		&emsp;**[Practical Workshop](LINK)**  
+		&emsp;Tutor: Ilia Markov
+- #### Friday (15/10/2021)
+	- Morning (10:00 - 12:30):  
+		&emsp;**[Command Line I](LINK)**  
+		&emsp;Tutor: Ben Burtenshaw
+	- Afternoon (14:00 - 16:00):  
+		&emsp;**[Command Line II](LINK)**  
+		&emsp;Tutor: Walter Daelemans
 
 **************************************************************************
 ## Staff
@@ -52,7 +109,11 @@
 	- [Coordinator 2](mailto)
 	- [Coordinator 3](mailto)
 - Tutors
-	- [Tutor 1](mailto)
-	- [Tutor 2](mailto)
-	- [Tutor 3](mailto)
+	- [Banare, Nicolae](mailto)
+	- [Burtenshaw, Ben](mailto)
+	- [Daelemans, Walter](mailto)
+	- [Kestemont, Mike](mailto)
+	- [Schäuble, Joshua](mailto)
+	- [XX, Thomas](mailto)
+	- [XX, Ilia](mailto)
 
