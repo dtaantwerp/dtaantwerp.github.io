@@ -9,6 +9,9 @@ New notebook directory
 [notebooks/](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/master/notebooks)
 2020 notebook directory
 
+[exercises2021/](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/master/exercises2021)
+New exercises directory
+
 [exercises/](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/master/exercises)
 2020 exercise notebooks directory
 
@@ -104,13 +107,13 @@ Material from 2020
 ------------------
 
 We have copied material from 2020's bootcamp into the new notebooks in
-[[notebooks2021/]{.ul}](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/master/notebooks2021).
+[notebooks2021/](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/master/notebooks2021).
 It does not completely align with the new course structure and most
 notebooks will require replanning.
 
 If you wish to use 2020 material other than that which is in the 2021
 notebook already, go to
-[[notebooks/]{.ul}](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/master/notebooks).
+[notebooks/](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/master/notebooks).
 
 Sharing material with students
 ------------------------------
@@ -126,45 +129,4 @@ same links.
 Assignments
 -----------
 
-All assignments are filed as GitHub Issues. Here is an overview:
-
-| Title                                                  | Staff    |
-| ------------------------------------------------------ | -------- |
-| Ma DTA Course Overview                                 | everyone |
-| Python and Variables                                   | Walter   |
-| Control structures: if-else                            | Ben      |
-| Data Types, Lists, Dictionaries                        | Mike     |
-| Practical Workshop                                     | UNK      |
-| Frequency distribution in python; counting, text       | Mike     |
-| Control structures: Loops: for, while (?)              | Walter   |
-| input/output / files                                   | Mike     |
-| Practice Sessions                                      | UNK      |
-| Practical Workshop                                     | Thomas   |
-| string/text manipulation                               | Josh     |
-| Functions                                              | Walter   |
-| Practical Workshop                                     | Ilia     |
-| regular expressions                                    | Josh     |
-| Larger project                                         | Mike     |
-| numpy                                                  | Nikolay  |
-| functional programming / list comprehensions           | Walter   |
-| Practical Workshop                                     | Josh     |
-| object orientation I & basic pandas (classes, methods) | Ben      |
-| object orientation II (case study)                     | Mike     |
-| Practical Workshop                                     | Ilia     |
-| Command line                                           | Ben      |
-| Command line                                           | Walter   |
-
-Resources
----------
-
-[[notebooks2021/]{.ul}](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/master/notebooks2021)
-New notebook directory
-
-[[notebooks/]{.ul}](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/master/notebooks)
-2020 notebook directory
-
-[[exercises/]{.ul}](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/master/exercises)
-2020 exercise notebooks directory
-
-[[data/]{.ul}](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/master/data)
-datasets and figures
+All assignments are filed as GitHub Issues. 
