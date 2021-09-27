@@ -116,7 +116,7 @@
 		&emsp;Tutor: Ben Burtenshaw
 	- Afternoon (13:30 - 15:30):  
 		&emsp;**[Object Orientation II (Case Study)](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/14_W3_Wed_Object_Orientation_I_Basic_Pandas_Classes_Methods.ipynb)**  
-		&emsp;Tutor: Mike Kestemont
+		&emsp;Tutor: Thomas Smits and Paavo Van der Eecken
 - #### Thursday (14/10/2021) Room: S.SJ.116
 	- Morning (10:30 - 12:30):  
 		&emsp;**Practical Workshop**
