@@ -14,7 +14,7 @@
 - #### Tuesday (28/09/2021) Room: S.C.202
 	- Morning (10:30 - 12:30):  
 		&emsp;**[MA Digital Text Analysis: Course Overview](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/01_W1_Tue_Ma_DTA_Course_Overview.ipynb)**  
-		&emsp;Tutor: All tutors are introduced
+		&emsp;Tutor: Mike Kestemont and Walter Daelemans (most tutors are introduced)
 	- Afternoon (14:00 - 16:00):  
 		&emsp;**[Python and Variables](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/02_W1_Tue_Python_and_Variables.ipynb)**  
 		&emsp;Tutor: Walter Daelemans
@@ -56,7 +56,7 @@
 		- [Controlstructures: If-Else](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/03_if_else.ipynb)
 		- [Controlstructures: Loops](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/04_loops.ipynb)
 		
-		&emsp;Tutor: Thomas Smits
+		&emsp;Tutor: Thomas Smits and Paavo Van der Eecken
 	- Afternoon (14:00 - 16:00):  
 		&emsp;**Practical Workshop**  
 		- [Input Output](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/05_input_output.ipynb)
