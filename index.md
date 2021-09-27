@@ -38,7 +38,7 @@
 		- [Controlstructures: If-Else](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/03_if_else.ipynb)
 		- [Controlstructures: Loops](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/04_loops.ipynb)
 		
-		&emsp;Tutor: TBA
+		&emsp;Tutor: Ben Burtenshaw
 		
 		
 
