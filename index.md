@@ -85,16 +85,16 @@
 	- Morning (10:30 - 12:30):  
 		&emsp;**[Regular Expressions](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/10_W2_Fri_Regular_Expressions.ipynb)**  
 		&emsp;Tutor: Joshua Schäuble
-	- Afternoon (14:00 - 16:00):  
-		&emsp;**[Project Work](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/11_W2_Fri_Larger_Project.ipynb)**  
-		&emsp;Tutor: Mike Kestemont
+	- Afternoon (14:00 - 16:00):
+		&emsp;**[Functional Programming / List Comprehensions](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/12_W3_Mon_Functional_Programming_List_Comprehensions.ipynb)**  
+		&emsp;Tutor: Walter Daelemans  
 
 
 ###  Week 3
 - #### Monday (11/10/2021) Room: S.SJ.117
 	- Morning (10:30 - 12:30):  
-		&emsp;**[Functional Programming / List Comprehensions](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/12_W3_Mon_Functional_Programming_List_Comprehensions.ipynb)**  
-		&emsp;Tutor: Walter Daelemans
+		&emsp;**[Project Work](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/11_W2_Fri_Larger_Project.ipynb)**  
+		&emsp;Tutor: Mike Kestemont
 	- Afternoon (14:00 - 16:00):  
 		&emsp;**[Numpy](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/13_W3_Mon_Numpy.ipynb)**  
 		&emsp;Tutor: Nikolay Banar
