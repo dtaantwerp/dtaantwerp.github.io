@@ -85,7 +85,7 @@
 	- Morning (10:30 - 12:30):  
 		&emsp;**[Regular Expressions](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/10_W2_Fri_Regular_Expressions.ipynb)**  
 		&emsp;Tutor: Joshua Schäuble
-	- Afternoon (14:00 - 16:00):
+	- Afternoon (14:00 - 16:00):  
 		&emsp;**[Functional Programming / List Comprehensions](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/12_W3_Mon_Functional_Programming_List_Comprehensions.ipynb)**  
 		&emsp;Tutor: Walter Daelemans  
 
