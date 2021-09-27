@@ -2,7 +2,7 @@
 
 ## Administrative Information
 - Dates: 28 September 2021 - 16 October 2021
-- Point of contact: [someone@uantwerpen.be](mailto:someone@uantwerpen.be)
+- Point of contact: [joshua.schaeuble@uantwerpen.be](mailto:joshua.schaeuble@uantwerpen.be)
 - Course Material:  All course material can be found [here]()
 - Textbook: Hammond, M. (2020). *Python for Linguists*. Cambridge: Cambridge University Press. doi:10.1017/9781108642408
 
@@ -31,7 +31,13 @@
 		&emsp;**[Control Structures: For-Loops (and While-Loops)](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/05_W1_Fri_Control_Structures_Loops_For_While.ipynb)**  
 		&emsp;Tutor: Walter Daelemans
 	- Afternoon (14:00 - 16:00):  
-		&emsp;**[Practice Session: Recap Week 1](LINK)**  
+		&emsp;**Practice Session: Recap Week 1:**
+		- [Python and Variables](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/01_python_and_variables.ipynb)
+		- [Datatypes 1](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/02a_datatypes.ipynb)
+		- [Datatypes 2](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/02b_datatypes.ipynb)
+		- [Controlstructures: If-Else](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/03_if_else.ipynb)
+		- [Controlstructures: Loops](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/04_loops.ipynb)
+		
 		&emsp;Tutor: TBA
 		
 		
@@ -47,7 +53,10 @@
 		&emsp;Tutor: Mike Kestemont
 - #### Tuesday (05/10/2021) Room: S.C.202
 	- Morning (10:30 - 12:30):  
-		&emsp;**[Practical Workshop](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/793f110c6042fa73ddbbe1f45b9b899b903dbac8/exercises/01_python_and_variables.ipynb)**  
+		&emsp;**Practical Workshop**  
+		- [Input Output](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/05_input_output.ipynb)
+		- [Frequency Distribution](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/06_frequency_distribution.ipynb)
+		
 		&emsp;Tutor: Thomas
 - #### Wednesday (06/10/2021) Room: S.SJ.115
 	- Morning (10:30 - 12:30):  
@@ -58,7 +67,10 @@
 		&emsp;Tutor: Joshua Schäuble
 - #### Thursday (07/10/2021) Room: S.SJ.116
 	- Morning (10:30 - 12:30):  
-		&emsp;**[Practical Workshop](LINK)**  
+		&emsp;**Practical Workshop**
+		- [Functions](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/07_functions.ipynb)
+		- [String Manipulation](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/08_text_manipulation.ipynb)
+		
 		&emsp;Tutor: Ilia Markov
 - #### Friday (08/10/2021) Room: S.SJ.214
 	- Morning (10:30 - 12:30):  
@@ -80,6 +92,10 @@
 - #### Tuesday (12/10/2021) Room: S.C.202
 	- Morning (10:30 - 12:30):  
 		&emsp;**[Practical Workshop](LINK)**  
+		- [Regular Expressions](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/09_regular_expressions.ipynb)
+		- [Functional Programming](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/10_functional_programming_comprehensions.ipynb)
+		- [Numpy](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/11_numpy.ipynb)
+		
 		&emsp;Tutor: Joshua Schäuble
 - #### Wednesday (13/10/2021) Room: S.SJ.115
 	- Morning (10:30 - 12:30):  
@@ -90,7 +106,9 @@
 		&emsp;Tutor: Mike Kestemont
 - #### Thursday (14/10/2021) Room: S.SJ.116
 	- Morning (10:30 - 12:30):  
-		&emsp;**[Practical Workshop](LINK)**  
+		&emsp;**Practical Workshop**
+		- [Object Orientation / Pandas](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/12_pandas.ipynb)
+		
 		&emsp;Tutor: Ilia Markov
 - #### Friday (15/10/2021) Room: S.SJ.214
 	- Morning (10:30 - 12:30):  
