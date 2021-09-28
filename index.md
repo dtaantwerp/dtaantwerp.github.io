@@ -18,7 +18,7 @@
 	- Afternoon (14:00 - 16:00):  
 		&emsp;**[Python and Variables](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/02_W1_Tue_Python_and_Variables.ipynb)**  
 		&emsp;Tutor: Walter Daelemans
-- #### Wednesday (29/09/2021) Room: S.SJ.115
+- #### Wednesday (29/09/2021) Room: S.SJ.214
 	- Morning (10:30 - 12:30):  
 		&emsp;**[Data Types, Lists, Dictionaries](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/03_W1_Wed_Data_Types_Lists_Dictionaries.ipynb)**  
 		&emsp;Tutor: Mike Kestemont
@@ -50,7 +50,7 @@
 	- Afternoon (14:00 - 16:00):  
 		&emsp;**[Frequency Distribution in Python; Counting, Text](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/07_W2_Mon_Frequency_Distribution_in_Python_Counting_Text.ipynb)**  
 		&emsp;Tutor: Mike Kestemont
-- #### Tuesday (05/10/2021) Room: S.C.202
+- #### Tuesday (05/10/2021) Room: Morning: C.104, Afternoon: A.202
 	- Morning (10:30 - 12:30):  
 		&emsp;**Practical Workshop**  
 		- [Controlstructures: If-Else](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/03_if_else.ipynb)
