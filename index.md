@@ -55,10 +55,6 @@
 		&emsp;**Practical Workshop**  
 		- [Controlstructures: If-Else](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/03_if_else.ipynb)
 		- [Controlstructures: Loops](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/04_loops.ipynb)
-		
-		&emsp;Tutor: Thomas Smits and Paavo Van der Eecken
-	- Afternoon (14:00 - 16:00):  
-		&emsp;**Practical Workshop**  
 		- [Input Output](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/05_input_output.ipynb)
 		- [Frequency Distribution](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/06_frequency_distribution.ipynb)
 		
@@ -74,10 +70,6 @@
 	- Morning (10:30 - 12:30):  
 		&emsp;**Practical Workshop**
 		- [Functions](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/07_functions.ipynb)
-		
-		&emsp;Tutor: Ilia Markov
-	- Afternoon (14:00 - 16:00):  
-		&emsp;**Practical Workshop**
 		- [String Manipulation](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/08_text_manipulation.ipynb)
 				
 		&emsp;Tutor: Ilia Markov
@@ -103,10 +95,6 @@
 		&emsp;**Practical Workshop**  
 		- [Regular Expressions](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/09_regular_expressions.ipynb)
 		- [Functional Programming](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/10_functional_programming_comprehensions.ipynb)
-		
-		&emsp;Tutor: Joshua Schäuble
-	- Afternook (14:00 - 16:00):  
-		&emsp;**Practical Workshop**  
 		- [Numpy](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/11_numpy.ipynb)
 		
 		&emsp;Tutor: Joshua Schäuble
@@ -121,11 +109,6 @@
 	- Morning (10:30 - 12:30):  
 		&emsp;**Practical Workshop**
 		- [Object Orientation / Pandas](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/12_pandas.ipynb)
-		
-		&emsp;Tutor: Ilia Markov
-	- Afternoon (14:00 - 16:00):  
-		&emsp;**Practical Workshop**
-		- Continuation of morning workshop (if needed)
 		
 		&emsp;Tutor: Ilia Markov
 - #### Friday (15/10/2021) Room: S.SJ.214
