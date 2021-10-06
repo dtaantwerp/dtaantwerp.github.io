@@ -100,6 +100,7 @@
 		- [Numpy](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/11_numpy.ipynb)
 		
 		&emsp;Tutor: Joshua Schäuble
+		
 - #### Wednesday (13/10/2021) Room: S.SJ.214
 	- Morning (10:30 - 12:30):  
 
