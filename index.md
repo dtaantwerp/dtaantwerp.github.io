@@ -102,7 +102,8 @@
 		&emsp;Tutor: Joshua Schäuble
 - #### Wednesday (13/10/2021) Room: S.SJ.214
 	- Morning (10:30 - 12:30):  
-		&emsp;**[Object Orientation I & Basic Pandas (Classes, Methods)](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/14_W3_Wed_Object_Orientation_I_Basic_Pandas_Classes_Methods.ipynb)**  
+
+	&emsp;**[Object Orientation I & Basic Pandas (Classes, Methods)](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/14_W3_Wed_Object_Orientation_I_Basic_Pandas_Classes_Methods.ipynb)**  
 		&emsp;Tutor: Ben Burtenshaw
 	- Afternoon (13:30 - 15:30):  
 		&emsp;**[Object Orientation II (Case Study)](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/4cca7b8e01d4191cc23372dccc0f8ddc29a60ea2/notebooks/15_W3_Wed_Object_Orientation_II_Case_Study.ipynb)**  
