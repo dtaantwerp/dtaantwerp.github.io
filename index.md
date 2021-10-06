@@ -107,7 +107,8 @@
 	
 		&emsp;Tutor: Ben Burtenshaw
 		
-	- Afternoon (13:30 - 15:30):  
+	- Afternoon (13:30 - 15:30): 
+	
 	&emsp;**[Object Orientation II (Case Study)](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/4cca7b8e01d4191cc23372dccc0f8ddc29a60ea2/notebooks/15_W3_Wed_Object_Orientation_II_Case_Study.ipynb)**  
 		
 		&emsp;Tutor: Thomas Smits and Paavo Van der Eecken
