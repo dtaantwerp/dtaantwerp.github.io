@@ -57,8 +57,8 @@
 		- [Controlstructures: Loops](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/04_loops.ipynb)
 		- [Input Output](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/05_input_output.ipynb)
 		- [Frequency Distribution](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/06_frequency_distribution.ipynb)
-		
 		&emsp;Tutor: Thomas Smits
+		
 - #### Wednesday (06/10/2021) Room: S.SJ.115
 	- Morning (10:30 - 12:30):  
 		&emsp;**[Functions](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/08_W2_Wed_Functions.ipynb)**  
@@ -66,13 +66,14 @@
 	- Afternoon (13:30 - 15:30):  
 		&emsp;**[String Manipulation](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/09_W2_Wed_String_Manipulation.ipynb)**  
 		&emsp;Tutor: Joshua Schäuble
+
 - #### Thursday (07/10/2021) Room: S.A.107
-	- Morning (10:30 - 12:30):  
+	- Morning (10:30 - 12:30) (+ Afternoon: 14:00-16:00)  
 		&emsp;**Practical Workshop**
 		- [Functions](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/07_functions.ipynb)
 		- [String Manipulation](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/08_text_manipulation.ipynb)
-				
 		&emsp;Tutor: Ilia Markov
+
 - #### Friday (08/10/2021) Room: S.SJ.214
 	- Morning (10:30 - 12:30):  
 		&emsp;**[Regular Expressions](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/10_W2_Fri_Regular_Expressions.ipynb)**  
@@ -92,7 +93,7 @@
 		&emsp;Tutor: Nikolay Banar
 
 - #### Tuesday (12/10/2021)
-	- Morning (10:30 - 12:30): Room: S.C.104 + Afternoon (14:00 - 16:00): Room: S.A.202
+	- Morning (10:30 - 12:30): Room: S.C.104 (+ Afternoon (14:00 - 16:00): Room: S.A.202)
 		&emsp;**Practical Workshop**
 		- [Regular Expressions](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/09_regular_expressions.ipynb)
 		- [Functional Programming](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/10_functional_programming_comprehensions.ipynb)
