@@ -114,7 +114,7 @@
 	&emsp;Tutor: Thomas Smits and Paavo Van der Eecken
 
 - #### Thursday (14/10/2021) Room: S.A.107
-	- Morning (10:30 - 12:30) (+ Afternoon: 14:00-16:00)
+	- Morning (10:30 - 12:30) (+ Afternoon: 14:00-16:00, Room: R 004)
 	     **Practical Workshop**
 	   - [Object Orientation / Pandas](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/12_pandas.ipynb)
 		
@@ -123,7 +123,7 @@
 	- Morning (10:30 - 12:30):  
 		&emsp;**Command Line**  
 		&emsp;Tutor: Ben Burtenshaw
-	- Afternoon (14:00 - 16:00): S.SJ.214
+	- Afternoon (14:00 - 16:00):
 		&emsp;**Information session thesis and internship**  
 		&emsp;Tutor: Walter Daelemans, Peter Petré and Mike Kestemont
 
