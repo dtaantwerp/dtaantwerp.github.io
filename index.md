@@ -116,7 +116,7 @@
 - #### Thursday (14/10/2021) Room: S.A.107
 	- Morning (10:30 - 12:30) (+ Afternoon: 14:00-16:00, Room: R 004)
 	     **Practical Workshop**
-	   - [Object Orientation / Pandas](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/12_pandas.ipynb)
+	   - [Pandas](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/12_pandas.ipynb)
 		
 	&emsp;Tutor: Ilia Markov
 - #### Friday (15/10/2021) Room: S.SJ.214
