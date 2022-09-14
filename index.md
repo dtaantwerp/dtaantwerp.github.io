@@ -105,7 +105,7 @@
 		
 - #### Tuesday (11/10/2022) Room: S.K.102
 	- Morning (10:30 - 12:30)
-		&emsp;**Practice Session**
+		&emsp;**Practice Session**  
 		- [Regular Expressions](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/09_regular_expressions.ipynb)
 		- [Functional Programming](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/10_functional_programming_comprehensions.ipynb)
 		- [Numpy](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/11_numpy.ipynb)
@@ -119,7 +119,7 @@
 		
 - #### Wednesday (12/10/2022) Room: S.SJ.214
 	- Morning (10:30 - 12:30) 
-	&emsp;**[Pandas](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/14_W3_Wed_Object_Orientation_I_Basic_Pandas_Classes_Methods.ipynb)** 
+	&emsp;**[Pandas](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/14_W3_Wed_Object_Orientation_I_Basic_Pandas_Classes_Methods.ipynb)**
 	&emsp;Tutor: Mike Kestemont
 	- Afternoon (13:30 - 15:30)
 	&emsp;**[Object Orientation](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/4cca7b8e01d4191cc23372dccc0f8ddc29a60ea2/notebooks/15_W3_Wed_Object_Orientation_II_Case_Study.ipynb)**  
