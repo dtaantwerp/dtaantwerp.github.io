@@ -119,7 +119,7 @@
 		
 - #### Wednesday (12/10/2022) Room: S.SJ.214
 	- Morning (10:30 - 12:30) 
-	&emsp;**[Pandas](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/14_W3_Wed_Object_Orientation_I_Basic_Pandas_Classes_Methods.ipynb)**
+	&emsp;**[Pandas](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/14_W3_Wed_Object_Orientation_I_Basic_Pandas_Classes_Methods.ipynb)**  
 		&emsp;Tutor: Mike Kestemont
 	- Afternoon (13:30 - 15:30)
 		&emsp;**[Object Orientation](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/4cca7b8e01d4191cc23372dccc0f8ddc29a60ea2/notebooks/15_W3_Wed_Object_Orientation_II_Case_Study.ipynb)**  
@@ -138,7 +138,7 @@
 	- Morning (10:30 - 12:30)  
 		&emsp;**Information session thesis and internship**  
 		&emsp;Tutor: Walter Daelemans, Peter Petré, and Mike Kestemont
-	- Afternoon (14:00 - 16:00)
+	- Afternoon (14:00 - 16:00)  
 		&emsp;**Optional practice session: last year's exam**  
 		&emsp;Tutor: Lisa Hilte
 
