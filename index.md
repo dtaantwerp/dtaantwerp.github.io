@@ -129,6 +129,7 @@
 	- Morning (10:30 - 12:30)  
 	     **Practice Session**
 	   - [Pandas](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/12_pandas.ipynb)  
+	
 	&emsp;Tutor: Wouter Haverals
 	- Afternoon (14:00 - 16:00)  
 		&emsp;**[Command line]**  
