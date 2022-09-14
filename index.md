@@ -138,7 +138,7 @@
 - #### Friday (14/10/2022) Room: S.SJ.214
 	- Morning (10:30 - 12:30)  
 		&emsp;**Information session thesis and internship**  
-		&emsp;Tutor: Walter Daelemans, Peter Petré, and Mike Kestemont
+		&emsp;Tutor: Walter Daelemans, Peter Petré, and Mike Kestemont  
 	- Afternoon (14:00 - 16:00)  
 		&emsp;**Optional practice session: last year's exam**  
 		&emsp;Tutor: Lisa Hilte
