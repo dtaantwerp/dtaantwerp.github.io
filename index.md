@@ -1,8 +1,8 @@
 # MA Digital Text Analysis: Bootcamp 
 
 ## Administrative Information
-- Dates: 28 September 2021 - 16 October 2021
-- Point of contact: [joshua.schaeuble@uantwerpen.be](mailto:joshua.schaeuble@uantwerpen.be)
+- Dates: 27 September 2022 - 14 October 2022
+- Point of contact: [lisa.hilte@uantwerpen.be](mailto:lisa.hilte@uantwerpen.be)
 - Course Material:  All course material can be found [here]()
 - Textbook: Hammond, M. (2020). *Python for Linguists*. Cambridge: Cambridge University Press. doi:10.1017/9781108642408
 - Slack Channel: [Go here](https://join.slack.com/t/ma-dta/shared_invite/zt-w4ikrnxi-D1bZLU~wFSi1GdVGqMyagw)
