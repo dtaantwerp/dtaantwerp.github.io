@@ -132,7 +132,7 @@
 	
 	&emsp;Tutor: Wouter Haverals
 	- Afternoon (14:00 - 16:00)  
-		&emsp;**[Command line]**  
+		&emsp;**Command line**  
 		&emsp;Tutor: Nooshin Asadi
 
 - #### Friday (14/10/2022) Room: S.SJ.214
