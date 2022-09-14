@@ -48,36 +48,41 @@
 	- Afternoon (14:00 - 16:00)  
 		&emsp;**[Frequency Distribution in Python; Counting, Text](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/07_W2_Mon_Frequency_Distribution_in_Python_Counting_Text.ipynb)**  
 		&emsp;Tutor: Walter Daelemans
+		
 - #### Tuesday (04/10/2022) Room: S.K.102
 	- Morning (10:30 - 12:30)  
-		&emsp;**Practical Workshop**  
+		&emsp;**Practice Session**  
 		- [Controlstructures: If-Else](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/03_if_else.ipynb)
 		- [Controlstructures: Loops](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/04_loops.ipynb)
 		- [Input Output](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/05_input_output.ipynb)
 		- [Frequency Distribution](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/06_frequency_distribution.ipynb)
+		
 		&emsp;Tutor: Thomas Smits and Paavo Van der Eecken
 	- Afternoon (14:00 - 16:00)  
 		&emsp;**Troubleshooting**
 		- no 'class', not obligatory: come by with your individual questions/issues/...
+		
 		&emsp;Tutor: Lisa Hilte, Nooshin Asadi, and Ehsan Lotfi
 		
 - #### Wednesday (05/10/2022) Room: S.SJ.214
 	- Morning (10:30 - 12:30)  
 		&emsp;**[Functions](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/08_W2_Wed_Functions.ipynb)**  
 		&emsp;Tutor: Walter Daelemans
-	- Afternoon (13:30 - 15:30):  
+	- Afternoon (13:30 - 15:30)  
 		&emsp;**[String Manipulation](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/09_W2_Wed_String_Manipulation.ipynb)**  
 		&emsp;Tutor: Lisa Hilte
 
 - #### Thursday (06/10/2022) Room: S.A.206
 	- Morning (10:30 - 12:30) 
-		&emsp;**Practical Workshop**
+		&emsp;**Practice Session**
 		- [Functions](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/07_functions.ipynb)
 		- [String Manipulation](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/08_text_manipulation.ipynb)
+		
 		&emsp;Tutor: Jens Lemmens and Jens Van Nooten
 	- Afternoon (14:00 - 16:00) 
 		&emsp;**Troubleshooting**
 		- no 'class', not obligatory: come by with your individual questions/issues/...
+		
 		&emsp;Tutor: Lisa Hilte, Nooshin Asadi, and Ehsan Lotfi
 		
 - #### Friday (07/10/2022) Room: S.SJ.214
@@ -100,7 +105,7 @@
 		
 - #### Tuesday (11/10/2022) Room: S.K.102
 	- Morning (10:30 - 12:30)
-		&emsp;**Practical Workshop**
+		&emsp;**Practice Session**
 		- [Regular Expressions](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/09_regular_expressions.ipynb)
 		- [Functional Programming](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/10_functional_programming_comprehensions.ipynb)
 		- [Numpy](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/11_numpy.ipynb)
@@ -109,6 +114,7 @@
 	- Afternoon (14:00 - 16:00) 
 		&emsp;**Troubleshooting**
 		- no 'class', not obligatory: come by with your individual questions/issues/...
+		
 		&emsp;Tutor: Lisa Hilte and Nooshin Asadi
 		
 - #### Wednesday (12/10/2022) Room: S.SJ.214
@@ -121,7 +127,7 @@
 
 - #### Thursday (13/10/2022) Room: S.A.206
 	- Morning (10:30 - 12:30)
-	     **Practical Workshop**
+	     **Practice Session**
 	   - [Pandas](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/12_pandas.ipynb)
 		&emsp;Tutor: Wouter Haverals
 	- Afternoon (14:00 - 16:00)
