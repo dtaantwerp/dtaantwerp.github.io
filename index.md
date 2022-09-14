@@ -3,7 +3,7 @@
 ## Administrative Information
 - Dates: 27 September 2022 - 14 October 2022
 - Point of contact: [lisa.hilte@uantwerpen.be](mailto:lisa.hilte@uantwerpen.be)
-- Course Material:  All course material can be found [here]()
+- Course Material:  All course material can be found [here](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io)
 
 
 **************************************************************************
