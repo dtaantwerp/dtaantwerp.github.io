@@ -111,7 +111,7 @@
 		- [Numpy](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/11_numpy.ipynb)
 		
 	&emsp;Tutor: Paavo Van der Eecken
-	- Afternoon (14:00 - 16:00) 
+	- Afternoon (14:00 - 16:00)  
 		&emsp;**Troubleshooting**  
 		- no 'class', not obligatory: come by with your individual questions/issues/...  	
 		
