@@ -113,15 +113,14 @@
 	&emsp;Tutor: Paavo Van der Eecken
 	- Afternoon (14:00 - 16:00) 
 		&emsp;**Troubleshooting**
-		- no 'class', not obligatory: come by with your individual questions/issues/...
-		
+		- no 'class', not obligatory: come by with your individual questions/issues/...  		
 		&emsp;Tutor: Lisa Hilte and Nooshin Asadi
 		
 - #### Wednesday (12/10/2022) Room: S.SJ.214
-	- Morning (10:30 - 12:30) 
+	- Morning (10:30 - 12:30)  
 	&emsp;**[Pandas](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/14_W3_Wed_Object_Orientation_I_Basic_Pandas_Classes_Methods.ipynb)**  
 		&emsp;Tutor: Mike Kestemont
-	- Afternoon (13:30 - 15:30)
+	- Afternoon (13:30 - 15:30)  
 		&emsp;**[Object Orientation](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/4cca7b8e01d4191cc23372dccc0f8ddc29a60ea2/notebooks/15_W3_Wed_Object_Orientation_II_Case_Study.ipynb)**  
 		&emsp;Tutor: Paavo Van der Eecken
 
