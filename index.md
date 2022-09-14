@@ -35,9 +35,7 @@
 		- [Python and Variables](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/01_python_and_variables.ipynb)
 		- [Datatypes 1](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/02a_datatypes.ipynb)
 		- [Datatypes 2](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/02b_datatypes.ipynb)
-		
 		&emsp;Tutor: Paavo Van der Eecken
-		
 		
 
 ###  Week 2
@@ -134,7 +132,7 @@
 		&emsp;**Information session thesis and internship**  
 		&emsp;Tutor: Walter Daelemans, Peter Petré, and Mike Kestemont
 	- Afternoon (14:00 - 16:00):
-		&emsp;**Practice session: last year's exam**  
+		&emsp;**Optional practice session: last year's exam**  
 		&emsp;Tutor: Lisa Hilte
 
 **************************************************************************
