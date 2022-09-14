@@ -31,10 +31,11 @@
 		&emsp;**[Control Structures: For-Loops (and While-Loops)](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/05_W1_Fri_Control_Structures_Loops_For_While.ipynb)**  
 		&emsp;Tutor: Walter Daelemans
 	- Afternoon (14:00 - 16:00)  
-		&emsp;**Practice Session: Recap Week 1:**
+		&emsp;**Practice Session: Recap Week 1**
 		- [Python and Variables](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/01_python_and_variables.ipynb)
 		- [Datatypes 1](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/02a_datatypes.ipynb)
 		- [Datatypes 2](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/02b_datatypes.ipynb)
+		
 		&emsp;Tutor: Paavo Van der Eecken
 		
 
