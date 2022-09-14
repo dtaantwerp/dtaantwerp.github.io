@@ -114,6 +114,7 @@
 	- Afternoon (14:00 - 16:00) 
 		&emsp;**Troubleshooting**
 		- no 'class', not obligatory: come by with your individual questions/issues/...  		
+		
 		&emsp;Tutor: Lisa Hilte and Nooshin Asadi
 		
 - #### Wednesday (12/10/2022) Room: S.SJ.214
@@ -125,7 +126,7 @@
 		&emsp;Tutor: Paavo Van der Eecken
 
 - #### Thursday (13/10/2022) Room: S.A.206
-	- Morning (10:30 - 12:30)
+	- Morning (10:30 - 12:30)  
 	     **Practice Session**
 	   - [Pandas](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/12_pandas.ipynb)  
 		&emsp;Tutor: Wouter Haverals
