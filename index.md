@@ -73,13 +73,13 @@
 		&emsp;Tutor: Lisa Hilte
 
 - #### Thursday (06/10/2022) Room: S.A.206
-	- Morning (10:30 - 12:30) 
-		&emsp;**Practice Session**
+	- Morning (10:30 - 12:30)  
+		&emsp;**Practice Session**  
 		- [Functions](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/07_functions.ipynb)
-		- [String Manipulation](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/08_text_manipulation.ipynb)
+		- [String Manipulation](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/08_text_manipulation.ipynb)  
 		
 		&emsp;Tutor: Jens Lemmens and Jens Van Nooten
-	- Afternoon (14:00 - 16:00) 
+	- Afternoon (14:00 - 16:00)  
 		&emsp;**Troubleshooting**
 		- no 'class', not obligatory: come by with your individual questions/issues/...
 		
