@@ -22,7 +22,7 @@
 		&emsp;**[Data Types, Lists, Dictionaries](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/03_W1_Wed_Data_Types_Lists_Dictionaries.ipynb)**  
 		&emsp;Tutor: Mike Kestemont
 	- Afternoon (13:30 - 15:30)  
-		&emsp;**[Control Structures: If-Else](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/04_W1_Wed_Control_structures_if_else.ipynb)**  
+		&emsp;**[Control Structures: If-Else](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/notebooks/04_W1_Wed_Control_structures_if_else.ipynb)**  
 		&emsp;Tutor: Lisa Hilte
 - #### Thursday (29/09/2022)
 	- NO TEACHING
