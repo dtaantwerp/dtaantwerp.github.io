@@ -32,9 +32,9 @@
 		&emsp;Tutor: Walter Daelemans
 	- Afternoon (14:00 - 16:00)  
 		&emsp;**Practice Session: Recap Week 1**
-		- [Python and Variables](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/01_python_and_variables.ipynb)
-		- [Datatypes 1](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/02a_datatypes.ipynb)
-		- [Datatypes 2](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/02b_datatypes.ipynb)
+		- [Python and Variables](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/01_python_and_variables.ipynb)
+		- [Datatypes 1](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/02a_datatypes.ipynb)
+		- [Datatypes 2](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/02b_datatypes.ipynb)
 		
 		&emsp;Tutor: Paavo Van der Eecken
 		
@@ -52,10 +52,10 @@
 - #### Tuesday (04/10/2022) Room: S.K.102
 	- Morning (10:30 - 12:30)  
 		&emsp;**Practice Session**  
-		- [Control structures: If-Else](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/03_if_else.ipynb)
-		- [Control structures: Loops](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/04_loops.ipynb)
-		- [Input/Output](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/05_input_output.ipynb)
-		- [Frequency Distribution](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/06_frequency_distribution.ipynb)
+		- [Control structures: If-Else](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/03_if_else.ipynb)
+		- [Control structures: Loops](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/04_loops.ipynb)
+		- [Input/Output](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/05_input_output.ipynb)
+		- [Frequency Distribution](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/06_frequency_distribution.ipynb)
 		
 		&emsp;Tutor: Thomas Smits and Paavo Van der Eecken
 	- Afternoon (14:00 - 16:00)  
@@ -75,8 +75,8 @@
 - #### Thursday (06/10/2022) Room: S.A.206  
 	- Morning (10:30 - 12:30)  
 		&emsp;**Practice Session**  
-		- [Functions](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/07_functions.ipynb)  
-		- [String Manipulation](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/08_text_manipulation.ipynb)  
+		- [Functions](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/07_functions.ipynb)  
+		- [String Manipulation](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/08_text_manipulation.ipynb)  
 		
 		&emsp;Tutor: Jens Lemmens and Jens Van Nooten
 	- Afternoon (14:00 - 16:00)  
@@ -106,9 +106,9 @@
 - #### Tuesday (11/10/2022) Room: S.K.102  
 	- Morning (10:30 - 12:30)  
 		&emsp;**Practice Session**    
-		- [Regular Expressions](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/09_regular_expressions.ipynb)
-		- [Functional Programming](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/10_functional_programming_comprehensions.ipynb)
-		- [Numpy](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/11_numpy.ipynb)
+		- [Regular Expressions](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/09_regular_expressions.ipynb)
+		- [Functional Programming](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/10_functional_programming_comprehensions.ipynb)
+		- [Numpy](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/11_numpy.ipynb)
 		
 	&emsp;Tutor: Paavo Van der Eecken
 	- Afternoon (14:00 - 16:00)  
@@ -128,7 +128,7 @@
 - #### Thursday (13/10/2022) Room: S.A.206  
 	- Morning (10:30 - 12:30)  
 	     &emsp;**Practice Session**  
-	   - [Pandas](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/12b652d6955e285f35484c4220b4bb92b7fd9644/exercises/12_pandas.ipynb)  
+	   - [Pandas](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/12_pandas.ipynb)  
 	
 	&emsp;Tutor: Wouter Haverals
 	- Afternoon (14:00 - 16:00)  
