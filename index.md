@@ -12,7 +12,7 @@
 
 - #### Tuesday (27/09/2022) Room: S.K.102
 	- Morning (10:30 - 12:30)  
-		&emsp;**[MA Digital Text Analysis: Course Overview](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/01_W1_Tue_Ma_DTA_Course_Overview.ipynb)**  
+		&emsp;**[MA Digital Text Analysis: Course Overview](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/notebooks/01_W1_Tue_Ma_DTA_Course_Overview.ipynb)**  
 		&emsp;Tutor: Mike Kestemont and Walter Daelemans
 	- Afternoon (14:00 - 16:00)  
 		&emsp;**[Python and Variables](https://raw.githubusercontent.com/dtaantwerp/dtaantwerp.github.io/793f110c6042fa73ddbbe1f45b9b899b903dbac8/notebooks/02_W1_Tue_Python_and_Variables.ipynb)**  
