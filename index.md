@@ -21,7 +21,7 @@
 	- Morning (10:30 - 12:30)  
 		&emsp;**[Data Types, Lists, Dictionaries](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/notebooks/03_W1_Wed_Data_Types_Lists_Dictionaries.ipynb)**  
 		&emsp;Tutor: Mike Kestemont
-	- Afternoon (13:30 - 15:30)  
+	- Afternoon (14:00 - 16:00)  
 		&emsp;**[Control Structures: If-Else](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/notebooks/04_W1_Wed_Control_structures_if_else.ipynb)**  
 		&emsp;Tutor: Lisa Hilte
 - #### Thursday (29/09/2022)
@@ -68,7 +68,7 @@
 	- Morning (10:30 - 12:30)  
 		&emsp;**[Functions](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/notebooks/08_W2_Wed_Functions.ipynb)**  
 		&emsp;Tutor: Walter Daelemans
-	- Afternoon (13:30 - 15:30)  
+	- Afternoon (14:00 - 16:00)  
 		&emsp;**[String Manipulation](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/notebooks/09_W2_Wed_String_Manipulation.ipynb)**  
 		&emsp;Tutor: Lisa Hilte
 
@@ -121,7 +121,7 @@
 	- Morning (10:30 - 12:30)  
 	&emsp;**[Pandas](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/notebooks/14_W3_Wed_Pandas.ipynb)**  
 		&emsp;Tutor: Mike Kestemont
-	- Afternoon (13:30 - 15:30)  
+	- Afternoon (14:00 - 16:00)  
 		&emsp;**[Object Orientation](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/notebooks/15_W3_Wed_Object_Orientation.ipynb)**  
 		&emsp;Tutor: Paavo Van der Eecken
 
