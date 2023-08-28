@@ -32,7 +32,7 @@
 		&emsp;Tutor: Walter Daelemans
 	- Afternoon (14:00 - 16:00)  
 		&emsp;**Practice Session: Recap Week 1**
-		- [Python and Variables](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/01_python_and_variables.ipynb)
+		- [Python and Variables](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/Questions_2023/01_EX_Python_and_variables.ipynb)
 		- [Datatypes 1](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/02a_datatypes.ipynb)
 		- [Datatypes 2](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/02b_datatypes.ipynb)
 		
