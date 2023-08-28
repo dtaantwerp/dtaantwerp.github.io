@@ -25,7 +25,7 @@
 		&emsp;**[Control Structures: If-Else](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/notebooks/04_W1_Wed_Control_structures_if_else.ipynb)**  
 		&emsp;Tutor: Nooshin Asadi
 - #### Thursday (28/09/2022)
-	- NO TEACHING (Opening of the academic year)
+	- NO TEACHING (opening of the academic year)
 - #### Friday (29/09/2022) Room: S.SJ.214
 	- Morning (10:30 - 12:30)  
 		&emsp;**[Control Structures: For-Loops (and While-Loops)](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/notebooks/05_W1_Fri_Control_Structures_Loops_For_While.ipynb)**  
@@ -149,13 +149,13 @@
 - [Asadi, Nooshin](mailto:nooshin.shahidzadehasadi@uantwerpen.be)
 - [Banari, Nicolae](mailto:nicolae.banari@uantwerpen.be)
 - [Daelemans, Walter](mailto:walter.daelemans@uantwerpen.be)
-- [Verreyen, Loren](mailto:loren.verreyen@uantwerpen.be)
+- [De Bruyne, Luna](mailto:Luna.debruyne@uantwerpen.be)
+- [Gevers, Ine](mailto:ine.gevers@uantwerpen.be)
 - [Kestemont, Mike](mailto:mike.kestemont@uantwerpen.be)
 - [Lemmens, Jens](mailto:Jens.Lemmens@uantwerpen.be)
 - [Lotfi, Ehsan](mailto:ehsan.lotfi@uantwerpen.be)
 - [Petré, Peter](mailto:peter.petre@uantwerpen.be)
 - [Van der Eecken, Paavo](mailto:paavo.vandereecken@uantwerpen.be) 
 - [Van Nooten, Jens](mailto:jens.vannooten@uantwerpen.be)
-- [Gevers, Ine](mailto:ine.gevers@uantwerpen.be)
-- [De Bruyne, Luna](mailto:Luna.debruyne@uantwerpen.be)
+- [Verreyen, Loren](mailto:loren.verreyen@uantwerpen.be)
 
