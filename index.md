@@ -116,7 +116,7 @@
 		- no 'class', not obligatory: come by with your individual questions/issues/...
 		- remaining exercises from morning practice session (if necessary)	
 		
-		&emsp;Tutor: -
+		&emsp;Tutor: Ine Gevers & Caroline Vandyck
 		
 - #### Wednesday (11/10/2022) Room: S.SJ.214  
 	- Morning (10:30 - 12:30)  
