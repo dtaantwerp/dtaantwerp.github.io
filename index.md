@@ -35,7 +35,7 @@
 		- **[Python and Variables](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/Questions_2023/01_EX_Python_and_variables.ipynb)**
 		- **[Datatypes](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/Questions_2023/02_EX_Datatypes.ipynb)**
 		
-		&emsp;Tutor: Paavo Van der Eecken
+		&emsp;Tutor: Ine Gevers and Mona Allaert
 		
 
 ###  Week 2
@@ -43,7 +43,7 @@
 - #### Monday (02/10/2022) Room: S.SJ.117
 	- Morning (10:30 - 12:30)  
 		&emsp;**[Input/Output and Files](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/notebooks/06_W2_Mon_Input_Output_Files.ipynb)**  
-		&emsp;Tutor: Mike Kestemont
+		&emsp;Tutor: Luna De Bruyne
 	- Afternoon (14:00 - 16:00)  
 		&emsp;**[Frequency Distribution in Python; Counting, Text](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/notebooks/07_W2_Mon_Frequency_Distribution_in_Python_Counting_Text.ipynb)**  
 		&emsp;Tutor: Walter Daelemans
@@ -56,7 +56,7 @@
 		- **[Input/Output](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/Questions_2023/05_EX_input_output.ipynb)**
 		- **[Frequency Distribution](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/06_frequency_distribution.ipynb)**
 		
-		&emsp;Tutors: Paavo Van der Eecken and Mona Allaert
+		&emsp;Tutors: Leonardo Grotti and Mona Allaert
 	- Afternoon (14:00 - 16:00)  
 		&emsp;**Troubleshooting (optional)**  
 		- no 'class', not obligatory: come by with your individual questions/issues/...  
@@ -98,7 +98,7 @@
 - #### Monday (9/10/2022) Room: S.SJ.117  
 	- Morning (10:30 - 12:30)  
 		&emsp;**[Numpy](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/notebooks/12_W3_Mon_Numpy.ipynb)**  
-		&emsp;Tutor: Nicolae Banari
+		&emsp;Tutor: Mike Kestemont
 	- Afternoon (14:00 - 16:00)  
 		&emsp;**[Project Work](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/notebooks/13_W3_Mo_Larger_Project.ipynb)**  
 		&emsp;Tutor: Mike Kestemont
@@ -110,7 +110,7 @@
 		- **[Functional Programming](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/Questions_2023/10_EX_functional_programming_list_comprehension.ipynb)**
 		- **[Numpy](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/exercises/Questions_2023/11_EX_Numpy.ipynb)**
 		
-	&emsp;Tutor: Paavo Van der Eecken
+	&emsp;Tutor: Loren Verreyen
 	- Afternoon (14:00 - 16:00)  
 		&emsp;**Troubleshooting (optional)**  
 		- no 'class', not obligatory: come by with your individual questions/issues/...
@@ -124,7 +124,7 @@
 		&emsp;Tutor: Loren Verreyen
 	- Afternoon (14:00 - 16:00)  
 		&emsp;**[Object Orientation](https://github.com/dtaantwerp/dtaantwerp.github.io/blob/DTA_Bootcamp_2021_students/notebooks/15_W3_Wed_Object_Orientation.ipynb)**  
-		&emsp;Tutor: Paavo Van der Eecken
+		&emsp;Tutor: Ine Gevers
 
 - #### Thursday (12/10/2022) Room: S.A.206  
 	- Morning (10:30 - 12:30)  
