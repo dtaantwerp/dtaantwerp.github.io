@@ -1,7 +1,7 @@
 # MA Digital Text Analysis: Bootcamp 
 
 ## Administrative Information
-- Dates: 26 September 2022 - 13 October 2023
+- Dates: 26 September 2023 - 13 October 2023
 - Point of contact: [mona.allaert@uantwerpen.be](mailto:mona.allaert@uantwerpen.be)
 - Course Material:  All course material can be found [here](https://github.com/dtaantwerp/dtaantwerp.github.io/tree/DTA_Bootcamp_2021_students/notebooks)
 
